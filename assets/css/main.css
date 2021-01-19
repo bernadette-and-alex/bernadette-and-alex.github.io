@@ -1656,7 +1656,7 @@
 		margin: 0 0 2em 0;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+	h1, h2, h3, h6 {
 		font-weight: 700;
 		line-height: 1.5;
 		margin: 0 0 1em 0;
@@ -1721,7 +1721,10 @@
 		}
 
 	h4 {
-		font-size: 1.5em;
+		font-size: 1.3em;
+		margin: 0.7em 0 0 0;
+		font-weight: 700;
+		line-height: 1.5;
 	}
 
 	h5 {
@@ -2908,7 +2911,8 @@
 			}
 
 			.wrapper.style1 a {
-				color: #000;
+				color: #4EA5E0;
+				font-weight: bold;
 			}
 
 				.wrapper.style1 a:hover {
@@ -3295,7 +3299,7 @@
 			}
 
 			.wrapper.style2 header p {
-				color: #67b2e4;
+				color: #aed6f1;
 			}
 
 			.wrapper.style2 table tbody tr {
